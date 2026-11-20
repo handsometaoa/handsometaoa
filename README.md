@@ -6,11 +6,12 @@
 
 ## 项目
 
-- [PDFLayoutEditor](https://github.com/handsometaoa/PDFLayoutEditor) — PDF 打印排版工作台
-- [HeaderKeeper](https://github.com/handsometaoa/HeaderKeeper) — 按域名注入自定义请求头的 Chrome 扩展
-- [AquaMark](https://github.com/handsometaoa/AquaMark) — 按域名渲染动态水印的浏览器扩展
 - [minimal-todo](https://github.com/handsometaoa/minimal-todo) — 呼之即来、挥之即去的极简待办
 - [minimal-resume](https://github.com/handsometaoa/minimal-resume) — 极简简历生成器
+- [](https://github.com/handsometaoa/skills-manager) — Skills Manager
+- [HeaderKeeper](https://github.com/handsometaoa/HeaderKeeper) — 按域名注入自定义请求头的 Chrome 扩展
+- [AquaMark](https://github.com/handsometaoa/AquaMark) — 按域名渲染动态水印的浏览器扩展
+- [PDFLayoutEditor](https://github.com/handsometaoa/PDFLayoutEditor) — PDF 打印排版工作台
 
 ## 技术栈
 
